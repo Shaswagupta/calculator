@@ -1,3 +1,5 @@
+import logo
+print(logo.calculator_logo)
 def calculation ( number,number2):
     operation = input("""choose the operation which you want to perform on numbers:
                     '+' for adding ,
